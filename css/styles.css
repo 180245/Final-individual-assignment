@@ -1,1 +1,12 @@
 @charset "utf-8";
+
+body {
+	background-color: #076797;
+	color:#3E3E3E
+}
+
+
+
+.my-navbar{
+	background-color:#006AE3; 
+}
