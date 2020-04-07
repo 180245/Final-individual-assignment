@@ -11,5 +11,63 @@ img {
 
 
 .my-navbar{
-	background-color:#006AE3; 
+    background-color: #076797;
+    font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", sans-serif;
+    font-weight: normal;
+    font-size: x-large;
+}
+
+p2 {
+    font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+    font-variant: normal;
+    font-weight: bold;
+    font-size: large;
+    color: #FFFFFF;
+}
+
+h1 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-variant: normal;
+    font-weight: bold;
+    font-size: large;
+}
+
+h4 {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+    font-variant: normal;
+    font-weight: bold;
+    font-size: large;
+    color: #FFFFFF;
+}
+
+h5 {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+    font-variant: normal;
+    font-weight: bold;
+    font-size: large;
+    color: #FFFFFF;
+}
+
+h6 {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+    font-variant: normal;
+    font-weight: bold;
+    font-size: large;
+    color: #FFFFFF;
+}
+
+h7 {
+	font-family: Cambria, "Hoefler Text", "Liberation Serif", Times, "Times New Roman", "serif";
+    font-variant: normal;
+    font-weight: bold;
+    font-size: large;
+    color: #FFFFFF;
+}
+
+h8 {
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	font-variant: normal;
+	font-weight: bolder;
+	font-size: large; 
+	
 }
